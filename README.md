@@ -6,4 +6,4 @@ En este repositorio encontraréis tanto los apuntes como los entregables que hir
 2. Variables, tipos de datos, operadores, condicionales, listas, diccionarios, tuplas, sets, etc.
 3. bucles, funciones,
 
-hola
+tresss
